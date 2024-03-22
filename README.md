@@ -9,3 +9,5 @@ Test_matrix <- matrix(5,9)
 
 Test_matrix[1,1]
 
+Test_matrix[,1]
+
