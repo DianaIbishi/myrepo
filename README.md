@@ -1,2 +1,11 @@
 # myrepo
 Repository for testing my Git/GitHub setup
+
+
+x <- 5:20
+x
+
+Test_matrix <- matrix(5,9)
+
+Test_matrix[1,1]
+
